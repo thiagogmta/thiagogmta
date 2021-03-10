@@ -4,10 +4,10 @@ I'm working at IFTO - TO, born in Porto Nacional and living in Palmas - TO
 
 ### You can check my social accounts
 
-🌎 ~~Site~~
-🐦 ![Twitter](https://twitter.com/thiagogmta)
-📸 ![Instagram](https://www.instagram.com/thiagogmta/)
-💼 ![LinkedIn](https://www.linkedin.com/in/thiago-guimar%C3%A3es-tavares-753baa87/)
+- 🌎 ~~Site~~
+- 🐦 ![Twitter](https://twitter.com/thiagogmta)
+- 📸 ![Instagram](https://www.instagram.com/thiagogmta/)
+- 💼 ![LinkedIn](https://www.linkedin.com/in/thiago-guimar%C3%A3es-tavares-753baa87/)
 
 
 **thiagogmta/thiagogmta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
