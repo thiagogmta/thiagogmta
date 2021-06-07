@@ -4,7 +4,7 @@ I'm working at IFTO - *Campus* Palmas, born in Porto Nacional and living in Palm
 
 ### You can check my social accounts
 
-- 🌎 ~~Site~~
+- 🌎 [Site](https://thiagogmta.netlify.app/)
 - 🐦 [Twitter](https://twitter.com/thiagogmta)
 - 📸 [Instagram](https://www.instagram.com/thiagogmta/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thiago-guimar%C3%A3es-tavares-753baa87/)
