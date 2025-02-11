@@ -10,7 +10,7 @@ I'm working at IFTO - *Campus* Palmas, born in Porto Nacional and living in Palm
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My5G Core
+- 🔭 I’m currently working on [K8sGAScheduler](https://github.com/thiagogmta/k8sgascheduler)
 - 🌱 I’m currently learning about DevOps (Docker, Ansible, Vagrant, Kubernetes)
 - 👯 I’m looking to collaborate on My5G Core
 
